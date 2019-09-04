@@ -1,0 +1,14 @@
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/Wrm5Vh0.png",** TV SHQIP **
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/uYZUDPC.png",al: ORANEWS
+http://145.239.2.153:8081/oranews/live/playlist.m3u8
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/X5E97RP.png",al: REPORT
+http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/l8Z9BRE.png",al: PEACE
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/wuGMeRX.png",al: RROKUM
+http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/6NxC1QO.png",al: TETOVA
+http://ip.tvtetova.net:8080/hls/tvtetova.m3u8
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/ivns2wP.png",al: TRIBUNA
+https://stream.shqiptv.com/tst/TRIBUNA-8791-sd/index.m3u8
